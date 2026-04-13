@@ -14,24 +14,23 @@ export default function About() {
     <section className="about" id="about">
       <div className="sec-inner">
         <Reveal><div className="section-eyebrow">01 — About me</div></Reveal>
-        <Reveal delay="rd1"><h2 className="section-title">From educator<br />to <em>builder</em></h2></Reveal>
+<Reveal delay="rd1"><h2 className="section-title">From teaching and hiring talent to <em>building digital solutions</em></h2></Reveal>
 
         <div className="about-grid">
           <div className="about-text">
             <Reveal>
-              <p>I'm a <strong className="c-pink">Full-Stack Developer</strong> and proud career shifter,
+              <p>I'm a <strong className="c-pink">aspring Full-Stack Developerand proud career shifter</strong>,
               a graduate of <strong className="c-accent">Uplift Code Camp</strong> (2025–2026) with a
               Bachelor's degree in Secondary Education from Universidad de Manila.</p>
             </Reveal>
             <Reveal delay="rd1">
               <p>My experience in fintech recruitment at <strong className="c-blue">Salmon Group Ltd.</strong> sharpened
-              my communication, coordination, and analytical skills — which I now bring to building
+              my communication, coordination, and analytical skills. Which I now bring to building
               scalable, user-focused web applications.</p>
             </Reveal>
             <Reveal delay="rd2">
-              <p>I'm a <strong className="c-pink">Dean's List achiever</strong>, <strong className="c-accent">Google AI-certified</strong>,
-              continuously eager to learn, detail-oriented, adaptable, and a reliable team player.</p>
-            </Reveal>
+  <p>I'm <strong className="c-accent">skilled in AI tools like Gemini, OpenAI, and Claude</strong>, driven to create efficient, scalable applications and deliver real-world impact.</p>
+</Reveal>
             <Reveal delay="rd3">
               <div className="edu-cards">
                 <div className="edu-card">
@@ -39,11 +38,19 @@ export default function About() {
                   <div className="edu-sub">Full-Stack Web Development Bootcamp</div>
                   <div className="edu-year">2025 – 2026</div>
                 </div>
-                <div className="edu-card blue">
-                  <div className="edu-title">Google AI Courses</div>
-                  <div className="edu-sub">AI Fundamentals · NLP · App Building · Coursera</div>
-                  <div className="edu-year">March 2026</div>
-                </div>
+               
+<div className="edu-card">
+  <div className="edu-title">Claude Courses </div>
+  <div className="edu-sub">Claude 101 · Claude Code 101 · AI Coding · Prompt Engineering · Tool Use · Anthropic </div>
+  <div className="edu-year">April 2026</div>
+</div>
+<div className="edu-card blue">
+  <div className="edu-title">Google AI Courses</div>
+  <div className="edu-sub">AI Fundamentals · NLP · App Building · Coursera</div>
+  <div className="edu-year">March 2026</div>
+</div>
+
+
                 <div className="edu-card pink">
                   <div className="edu-title">Universidad de Manila</div>
                   <div className="edu-sub">BSED Major in Social Studies</div>

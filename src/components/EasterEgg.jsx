@@ -6,7 +6,7 @@ export default function EasterEgg({ show, onClose }) {
         <div className="egg-title">You found it.</div>
         <div className="egg-text">
           Click the logo 5× and you get this.<br />
-          Curiosity is a developer's best trait — you'll fit right in.
+          Curiosity is a developer's best trait— you'll fit right in.
         </div>
         <div className="egg-close" onClick={onClose}>Back to portfolio →</div>
       </div>
