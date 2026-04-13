@@ -8,6 +8,7 @@ export const SKILLS = [
   { name: 'MongoDB',                   level: 80, col: '#60a5fa' },
   { name: 'Git & GitHub',              level: 80, col: '#60a5fa' },
   { name: 'Tailwind CSS',              level: 78, col: '#60a5fa' },
+  { name: 'TypeScript',                level: 50, col: '#60a5fa' },
 { name: 'Claude / OpenAI / Gemini',  level: 82, col: '#c9ff5e' },
 ]
 
