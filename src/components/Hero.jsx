@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react'
 
-const ROLES = ['Aspiring Full Stack Developer_', 'Aspiring MERN Stack Developer_', 'Aspiring AI Developer_', 'Problem Solver_']
+const ROLES = ['Full Stack Developer_', 'MERN Stack Developer_', 'AI Developer_', 'Problem Solver_']
 
 function useTypewriter(roles) {
   const [display, setDisplay] = useState('')
@@ -54,7 +54,7 @@ export default function Hero() {
           </div>
 
           <p className="hero-sub">
-            Aspiring full-stack developer focused on building intuitive, scalable web applications using the MERN stack, with a strong emphasis on modern AI tools and efficient development workflows.
+           Junior Full-Stack Developer | Career Shifter with Fintech Recruitment & Education Background
           </p>
 
           <div className="hero-actions">
